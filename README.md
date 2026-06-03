@@ -1,4 +1,4 @@
-<center><img src="https://imgur.com/Jf6ziGp.png" alt="Logo" width="1897" height="1072" /></center>
+<center><img src="https://i.imgur.com/Juogt4t.png" alt="Logo" width="1897" height="1072" /></center>
 
 ## **Description**
 
